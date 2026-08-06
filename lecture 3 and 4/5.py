@@ -7,5 +7,5 @@ class Solution:
 
         if n == 1:
             return 1
-
+# recursion
         return self.nthFibonacci(n - 1) + self.nthFibonacci(n - 2)
