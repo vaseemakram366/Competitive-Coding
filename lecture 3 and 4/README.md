@@ -22,6 +22,8 @@ interview problems.
 | `12.py` | Majority element | Boyer-Moore voting algorithm |
 | `13.py` | Rotate array | In-place rotation using array reversal |
 | `14.py` | Two Sum | Hash map lookup for a target pair |
+| `15.py` | Sort Colors | Dutch National Flag algorithm for in-place sorting |
+| `16.py` | Container With Most Water | Two-pointer search for the maximum area |
 
 ## Requirements
 
@@ -54,6 +56,8 @@ with direct `print()` calls display their sample result when run.
 - `4.py` and `5.py` demonstrate the same Fibonacci problem in two files.
 - The recursive Fibonacci examples are easy to understand but become slow for
 	larger values because they repeat work.
+- `15.py` sorts the input list in place and does not return a new list.
+- `16.py` returns the maximum container area calculated from the input heights.
 - `7.py`, `10.py`, `11.py`, and `14.py` currently need small fixes before they
 	can run directly: undefined variable names or missing `List` imports are
 	present in the source.
