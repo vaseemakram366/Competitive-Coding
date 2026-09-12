@@ -4,6 +4,9 @@ This folder contains Python practice programs from lectures 3 and 4. The
 examples introduce recursion and build toward common array and coding
 interview problems.
 
+For detailed explanations, examples, complexity notes, and known limitations,
+see [FILE_DOCUMENTATION.md](FILE_DOCUMENTATION.md).
+
 ## Contents
 
 | File | Topic | Main idea |
